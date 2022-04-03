@@ -19,6 +19,8 @@ let lastName = "Stark";
 // Alert the values of all the three variables.
 
 // Assignment and re-assignment
+// js
+alert()
 
 var wiseMan = "Tyrion Lannister";
 
