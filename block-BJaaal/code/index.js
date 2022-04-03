@@ -2,7 +2,9 @@
 
 /* Do the following:
 - Define a variable named `username` using `const` keyword and assign your name as a value.
+ const userName = "kunal";
 - Define another variable named `bio` and assign a value `Learning to code`. Use `let` keyword to define the variable.
+let bio = `learning to code`;
 */
 
 let firstName = "Arya";
@@ -10,6 +12,7 @@ let lastName = "Stark";
 
 /* Do the following using `+` operator
   - Alert message saying `I am [username] and my bio is [bio]`. Replace square brackets with the value of variable.
+  
   - Alert the message `I'm Arya Stark of Winterfell` using the variable name firstName and lastName.
 */
 
