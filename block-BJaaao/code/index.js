@@ -1,5 +1,5 @@
 // Using alert, prompt, confirm and console
-
+alert()
 /*
 
 1. Do the following using `alert` function. When you find any square bracket
